@@ -1,2 +1,2 @@
 # Escape-Fogeon
-WIP
+You're locked in a dungeon with a monster.
